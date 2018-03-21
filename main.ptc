@@ -1,0 +1,67 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {spanish}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Parte Uno}}{5}{part.1}
+\ttl@starttoc {default@1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{7}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Modelos de Elecci\IeC {\'o}n Binaria}{9}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Modelo Logit}{9}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Introducci\IeC {\'o}n}{9}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Motivaci\IeC {\'o}n}{10}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Descripci\IeC {\'o}n Te\IeC {\'o}rica del Modelo}{10}{subsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Definici\IeC {\'o}n Matem\IeC {\'a}tica}{10}{subsection.2.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.5}Impacto marginal}{11}{subsection.2.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Modelo Probit}{11}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Problema Aplicativo}{13}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Estimaci\IeC {\'o}n con el Modelo Logit}{14}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Estimaci\IeC {\'o}n con el Modelo Probit}{14}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Comparando entre Modelos}{14}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Probabilidad de Default}{15}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}P\IeC {\'e}rdida Esperada}{15}{subsection.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Modelos de Conteo}{17}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{17}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Distribuci\IeC {\'o}n de Poisson}{17}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Modelo de Regresi\IeC {\'o}n de Poisson}{18}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Estimaci\IeC {\'o}n por m\IeC {\'a}xima verosimilitud }{19}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Ejemplo de una estimaci\IeC {\'o}n del modelo de regresi\IeC {\'o}n de Poisson en Stata}{19}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Calculamos el factor y el cambio en el E (y / x)}{21}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Cambio marginal en E (y / x)}{22}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ejemplo de cambio marginal utilizando mfx compute}{22}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.1}Interpretaci\IeC {\'o}n utilizando probabilidades predichas}{22}{subsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {II}{Parte Dos}}{23}{part.2}
+\ttl@stoptoc {default@1}
+\ttl@starttoc {default@2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Anexos}}{25}{chapter*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliograf\IeC {\'\i }a}}{31}{chapter*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{31}{section*.9}
+\contentsfinish 
